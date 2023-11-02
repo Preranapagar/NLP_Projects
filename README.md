@@ -6,3 +6,5 @@ Natural Language Processing Projects
 2.Netflix Recommendation System
 
 3.Quora
+
+4.Tinder Sentiment Analysis
