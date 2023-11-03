@@ -1,12 +1,12 @@
 # NLP_Projects
 Natural Language Processing Projects
 
-1.Sentiment Analysis for E-commerce Apparel Reviews
+1. Sentiment Analysis for E-commerce Apparel Reviews
 
-2.Netflix Recommendation System
+2. Netflix Recommendation System
 
-3.Quora
+3. Quora
 
-4.Tinder Sentiment Analysis
+4. Tinder Sentiment Analysis
 
 5. IMDB Review classification
