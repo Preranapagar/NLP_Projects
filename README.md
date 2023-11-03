@@ -8,3 +8,5 @@ Natural Language Processing Projects
 3.Quora
 
 4.Tinder Sentiment Analysis
+
+5. IMDB Review classification
